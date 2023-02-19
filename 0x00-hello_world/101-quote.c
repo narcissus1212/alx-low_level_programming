@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*main-a c program that prints a line
-*Return 1 (success)
+*main - a c program that prints a line
+*Return 1(success)
 */
 int main(void)
 {
