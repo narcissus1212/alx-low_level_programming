@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - main block
- * Description; get a random number and check it
- * Return; 0
+ *main - main block
+ *Description; get a random number and check it
+ *Return; 0
  */
 int main(void)
 {
